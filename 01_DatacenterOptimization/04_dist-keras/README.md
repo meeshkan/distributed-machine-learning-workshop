@@ -1,0 +1,3 @@
+[`dist-keras`](https://github.com/cerndb/dist-keras) is the result of [Joeri Herman](https://github.com/JoeriHermans)'s masters thesis and is used to distribute keras models on a Spark cluster.  While not as full-featured as other libraries, it has the advantage of being easy to use and directly interoperable with Keras.
+
+We will be working through the [mNIST](https://github.com/cerndb/dist-keras/blob/master/examples/mnist.ipynb) example, which requires both Keras and Spark to be installed on a remote machine in order to work.
