@@ -5,3 +5,5 @@
 ![compiler stack](/03_Compilation/01_nnvm/nnvm_compiler_stack.png)
 
 To explore NNVM, we can look at the [TinyFlow](https://github.com/tqchen/tinyflow) project, which implements parts of the TensorFlow API.
+
+For this workshop, we will look at the generated DSL from [this example](https://github.com/dmlc/nnvm/blob/master/tutorials/define_and_compile_model.py).
